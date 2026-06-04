@@ -1,0 +1,5 @@
+--- FINAL PROJECT REPORT ---
+Count: 1
+Sum: 100.0
+Average: 100.0
+Max: 100.0
